@@ -42,7 +42,7 @@
           case 'listar':
             include('listar-usuario.php');
             break;
-          case 'listar':
+          case 'salvar':
             include('salvar-usuario.php');
             break;
           default:
